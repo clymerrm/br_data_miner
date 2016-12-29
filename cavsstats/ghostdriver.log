@@ -1,0 +1,12 @@
+[INFO  - 2016-12-29T00:27:42.328Z] GhostDriver - Main - running on port 60540
+[INFO  - 2016-12-29T00:27:42.743Z] Session [9cc7ef20-cd5d-11e6-8737-038b690ad8f6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-29T00:27:42.744Z] Session [9cc7ef20-cd5d-11e6-8737-038b690ad8f6] - page.customHeaders:  - {}
+[INFO  - 2016-12-29T00:27:42.744Z] Session [9cc7ef20-cd5d-11e6-8737-038b690ad8f6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-29T00:27:42.744Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9cc7ef20-cd5d-11e6-8737-038b690ad8f6
+[ERROR - 2016-12-29T00:28:27.249Z] Session [9cc7ef20-cd5d-11e6-8737-038b690ad8f6] - page.onError - msg: SyntaxError: Unexpected EOF
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-12-29T00:28:27.250Z] Session [9cc7ef20-cd5d-11e6-8737-038b690ad8f6] - page.onError - stack:
+  write (http://www.basketball-reference.com/players/r/roziete01.html:1)
+
+  phantomjs://platform/console++.js:263 in error
